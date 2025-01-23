@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics<br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning Java and Data Analytics related concepts<br>
+🔭 I’m currently working on Java Full Stack<br>👯 I’m looking to collaborate on ML<br>🌱 I’m currently learning Java and Data Analytics related concepts<br>
 
 
 ## 🌐 Socials:
